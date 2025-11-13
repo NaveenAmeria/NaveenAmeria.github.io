@@ -1,1 +1,1 @@
-.
+Amora is a responsive, dark-themed e-commerce frontend built using HTML, CSS, Tailwind CSS, and JavaScript. It features product listing pages, offer sliders, dedicated brand sections, a seller page, a gift card page, and basic login/signup screens. All content is static and displayed without any backend or database, focusing entirely on UI design and user experience.
